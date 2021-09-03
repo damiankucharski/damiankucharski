@@ -16,7 +16,7 @@
 - 👔 If you have a job offer for me feel free to contact😊
 - 📫 How to reach me: 
 
-    - Write to me at <a href="mailto:c.damiankucharski@gmail.com">c.damiankucharski@gmail.com</a>
+    - Write to me at <a href="mailto:b.damiankucharski@gmail.com">c.damiankucharski@gmail.com</a>
     - Visit my [linkedin profile](https://www.linkedin.com/in/damian-kucharski/)
 
 
