@@ -11,8 +11,8 @@
 </br>
 
 - 🔭 I’m currently working on [Ember - Automated Gradient Boosting Framework](https://github.com/damiankucharski/Ember) &nbsp;&nbsp;  ![](https://img.shields.io/github/stars/damiankucharski/Ember?style=social)
-- 🌱 I’m currently learning **transformers**🤖
-- 👯 I’m looking to collaborate on everything that's fun and challanging✨
+- 🌱 I’m currently learning **distributed computing**
+- - 👯 I’m looking to collaborate on everything that's fun and challanging✨
 - 👔 If you have a job offer for me feel free to contact😊
 - 📫 How to reach me: 
 
