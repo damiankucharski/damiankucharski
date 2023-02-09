@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Damian and I'm machine learning engineer!
+## Hi there 👋 I'm Damian and I'm a Data Scientist!
 </br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff944d)
