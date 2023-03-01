@@ -1,4 +1,4 @@
-## Welcome on my github page
+## Welcome to my github page
 </br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff944d)
