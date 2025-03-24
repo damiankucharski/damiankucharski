@@ -14,7 +14,7 @@
         body {
             display: flex;
             justify-content: center;
-            align-items: center;
+            align-items: flex-start; /* Start at the top */
             min-height: 100vh;
             font-family: Arial, sans-serif;
             padding: 20px;
@@ -26,13 +26,24 @@
             text-align: left;
         }
 
-        h1, h2 {
+        h1 {
             margin-bottom: 10px;
         }
 
+        h2 {
+            font-size: 1.2rem; /* Smaller size */
+            margin-bottom: 10px;
+        }
+
+        hr {
+            margin: 20px 0;
+            border: none;
+            height: 1px;
+            background-color: #ccc;
+        }
+
         ul {
-            list-style: none;
-            padding: 0;
+            padding-left: 20px; /* Ensure bullets are properly aligned */
         }
 
         ul li {
@@ -55,6 +66,8 @@
         <h1>Hi</h1>
 
         <p>My name is <strong>Damian Kucharski</strong>. I am a Data Scientist and ML Researcher. Also pursuing a PhD in Computer Science with a focus on ML applied in medicine.</p>
+
+        <hr>
 
         <h2>Couple of things you may be interested in:</h2>
 
