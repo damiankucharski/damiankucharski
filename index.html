@@ -5,28 +5,67 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Info</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
         body {
-            padding-left: 20%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
             font-family: Arial, sans-serif;
-            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            width: 90%;
+            text-align: left;
+        }
+
+        h1, h2 {
+            margin-bottom: 10px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin-bottom: 8px;
+        }
+
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
 
-    <h1>Hi</h1>
+    <div class="container">
+        <h1>Hi</h1>
 
-    <p>My name is <strong>Damian Kucharski</strong>. I am a Data Scientist and ML Researcher. Also pursuing a PhD in Computer Science with a focus on ML applied in medicine.</p>
+        <p>My name is <strong>Damian Kucharski</strong>. I am a Data Scientist and ML Researcher. Also pursuing a PhD in Computer Science with a focus on ML applied in medicine.</p>
 
-    <h2>Couple of things you may be interested in:</h2>
+        <h2>Couple of things you may be interested in:</h2>
 
-    <ul>
-        <li>You can contact me via this e-mail address: <a href="mailto:contact@damiankucharski.com">contact@damiankucharski.com</a></li>
-        <li><a href="#">My Github</a></li>
-        <li><a href="#">My LinkedIn</a></li>
-        <li><a href="#">My Google Scholar</a></li>
-        <li>My ORCID: <a href="https://orcid.org/0000-0002-5852-4136">0000-0002-5852-4136</a></li>
-    </ul>
+        <ul>
+            <li>You can contact me via this e-mail address: <a href="mailto:contact@damiankucharski.com">contact@damiankucharski.com</a></li>
+            <li><a href="#">My Github</a></li>
+            <li><a href="#">My LinkedIn</a></li>
+            <li><a href="#">My Google Scholar</a></li>
+            <li>My ORCID: <a href="https://orcid.org/0000-0002-5852-4136">0000-0002-5852-4136</a></li>
+        </ul>
+    </div>
 
 </body>
 </html>
